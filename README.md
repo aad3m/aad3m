@@ -5,7 +5,7 @@
 [<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />](https://www.tiktok.com/@aad3m05)
 
 
-- Feel free to checkout my [personal](https://aad3m.netlify.app) website!
+- Feel free to checkout my [personal](https://aad3m.com) website!
 - 🏢 Student & SWE intern in Minnesota
 - 🧰 I build with: `Python`, `Kotlin`, `JavaScript`, `HTML`, `CSS`,  `Java` ...
 - ⚡ I enjoy video games, anime, and just being outside
