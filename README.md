@@ -8,5 +8,5 @@
 - Feel free to checkout my [personal](https://aad3m.com) website!
 - 🏢 Student & SWE intern in Minnesota
 - 🧰 I build with: `Python`, `Kotlin`, `JavaScript`, `HTML`, `CSS`,  `Java` ...
-- ⚡ I enjoy video games, anime, and just being outside
+- ⚡ I enjoy video games, sports (especially F1), and just being outside
 - 📫 Reach out to me: aliadem0205@gmail.com
